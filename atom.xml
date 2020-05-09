@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liqibet.github.io/dailyEx-0502/</id>
     <title>V2Bet</title>
-    <updated>2020-05-09T09:39:22.226Z</updated>
+    <updated>2020-05-09T09:43:32.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liqibet.github.io/dailyEx-0502/"/>
     <link rel="self" href="https://liqibet.github.io/dailyEx-0502/atom.xml"/>
@@ -52,9 +52,10 @@
 <p>日报/周报的主题也是个学问，一般要包含 周报 自己的名字 时间区间这三个元素，如果发送范围很大，也可以把产品线或部门写上，我以前偶尔还会把需要号外的事情写在主题里面，热闹一下。比如：</p>
 </li>
 </ol>
-<p>[周报] 产品部 - 用户产品线 - 邱岳 2.1~2.7<br>
-或<br>
-[周报] 产品部 - 用户产品线 - 邱岳 2.1~2.7  【号外：用户管理模块上线了】</p>
+<pre><code> [周报] 产品部 - 用户产品线 - 邱岳 2.1~2.7  
+或
+ [周报] 产品部 - 用户产品线 - 邱岳 2.1~2.7  【号外：用户管理模块上线了】
+</code></pre>
 <p>有些人会问，点进去一看就知道是周报，发件人就是我，时间就是发件时间往前一周，为什么还要在主题里面写？孩子啊，那是因为读周报的人有时需要检索、需要统计、需要利用邮箱的规则脚本批量处理邮件。主题里写得越详细，人家处理起来就越方便，多为人家考虑考虑。</p>
 <ol start="12">
 <li>
