@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liqibet.github.io/dailyEx-0502/</id>
     <title>V2Bet</title>
-    <updated>2020-05-09T09:44:37.544Z</updated>
+    <updated>2020-05-09T09:45:43.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liqibet.github.io/dailyEx-0502/"/>
     <link rel="self" href="https://liqibet.github.io/dailyEx-0502/atom.xml"/>
@@ -13,8 +13,8 @@
     <rights>All rights reserved 2020, V2Bet</rights>
     <entry>
         <title type="html"><![CDATA[邱岳回复：怎么写好工作周报？]]></title>
-        <id>https://liqibet.github.io/dailyEx-0502/post/qiu-yue-hui-fu-zen-me-xie-hao-gong-zuo-zhou-bao/</id>
-        <link href="https://liqibet.github.io/dailyEx-0502/post/qiu-yue-hui-fu-zen-me-xie-hao-gong-zuo-zhou-bao/">
+        <id>https://liqibet.github.io/dailyEx-0502/qiu-yue-hui-fu-zen-me-xie-hao-gong-zuo-zhou-bao/</id>
+        <link href="https://liqibet.github.io/dailyEx-0502/qiu-yue-hui-fu-zen-me-xie-hao-gong-zuo-zhou-bao/">
         </link>
         <updated>2020-05-09T08:43:18.000Z</updated>
         <content type="html"><![CDATA[<p>[toc]</p>
@@ -71,8 +71,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[陈茜茜教你怎么写工作周报]]></title>
-        <id>https://liqibet.github.io/dailyEx-0502/post/chen-qian-qian-jiao-ni-zen-me-xie-gong-zuo-zhou-bao/</id>
-        <link href="https://liqibet.github.io/dailyEx-0502/post/chen-qian-qian-jiao-ni-zen-me-xie-gong-zuo-zhou-bao/">
+        <id>https://liqibet.github.io/dailyEx-0502/chen-qian-qian-jiao-ni-zen-me-xie-gong-zuo-zhou-bao/</id>
+        <link href="https://liqibet.github.io/dailyEx-0502/chen-qian-qian-jiao-ni-zen-me-xie-gong-zuo-zhou-bao/">
         </link>
         <updated>2020-05-09T08:41:40.000Z</updated>
         <content type="html"><![CDATA[<p>[toc]</p>
@@ -98,8 +98,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://liqibet.github.io/dailyEx-0502/post/hello-gridea/</id>
-        <link href="https://liqibet.github.io/dailyEx-0502/post/hello-gridea/">
+        <id>https://liqibet.github.io/dailyEx-0502/hello-gridea/</id>
+        <link href="https://liqibet.github.io/dailyEx-0502/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
